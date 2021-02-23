@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-	
+<?php include("header.php"); ?>
+
 <ul>
 	<li>
 		<img src="images/main_v01.png" alt="" />
@@ -10,5 +8,6 @@
 		<img src="images/main_v02.png" alt="" />
 	</li>
 </ul>
-</body>
-</html>
+
+
+<?php include("footer.php"); ?>
